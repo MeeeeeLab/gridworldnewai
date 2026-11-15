@@ -1,0 +1,18 @@
+Runtime: Java 21.0.13 / Mac OS X / aarch64
+11月 13, 2026 10:31:11 下午 com.jme3.system.JmeDesktopSystem initialize
+信息: Running on jMonkeyEngine 3.9.0-stable
+ * Branch: HEAD
+ * Git Hash: f44d59a
+ * Build Date: 2026-01-20
+11月 13, 2026 10:31:11 下午 com.jme3.system.lwjgl.LwjglContext printContextInitInfo
+信息: LWJGL 3.3.6+1 context running on thread jME3 Main
+ * Graphics Adapter: GLFW 3.5.0 Cocoa NSGL Null EGL OSMesa monotonic dynamic
+11月 13, 2026 10:31:11 下午 com.jme3.renderer.opengl.GLRenderer loadCapabilitiesCommon
+信息: OpenGL Renderer Information
+ * Vendor: Apple
+ * Renderer: Apple M5
+ * OpenGL Version: 4.1 Metal - 90.5
+ * GLSL Version: 4.10
+ * Profile: Core
+2026-11-13 22:31:25.386 java[83242:11044214] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+Player 2 window closed; first frame rendered=true

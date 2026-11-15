@@ -1,0 +1,23 @@
+Runtime: Java 21.0.13 / Mac OS X / aarch64
+11月 15, 2026 2:42:57 下午 com.jme3.system.JmeDesktopSystem initialize
+信息: Running on jMonkeyEngine 3.9.0-stable
+ * Branch: HEAD
+ * Git Hash: f44d59a
+ * Build Date: 2026-01-20
+11月 15, 2026 2:42:58 下午 com.jme3.system.lwjgl.LwjglContext printContextInitInfo
+信息: LWJGL 3.3.6+1 context running on thread jME3 Main
+ * Graphics Adapter: GLFW 3.5.0 Cocoa NSGL Null EGL OSMesa monotonic dynamic
+11月 15, 2026 2:42:58 下午 com.jme3.renderer.opengl.GLRenderer loadCapabilitiesCommon
+信息: OpenGL Renderer Information
+ * Vendor: Apple
+ * Renderer: Apple M5
+ * OpenGL Version: 4.1 Metal - 90.5
+ * GLSL Version: 4.10
+ * Profile: Core
+2026-11-15 14:43:03.166 java[88303:11318810] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+2026-11-15 14:43:03.175 java[88303:11318810] error messaging the mach port for IMKCFRunLoopWakeUpReliable
+Total   heap memory held: 31315kb
+Only heap memory available, if you want to monitor direct memory use BufferUtils.setTrackDirectMemoryEnabled(true) during initialization.
+
+Player 2 requested exit with Esc
+Player 2 window closed; first frame rendered=true
